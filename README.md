@@ -25,7 +25,7 @@
 
 
 Um desafio proposto na trilha Ignite de 2021 com objetivo de mostrar os conhecimentos aplicados durante o capítulo <strongIII</strong>; O 
-spacetraveling é uma aplicação que consiste em um site, estilo blog, onde conteúdos publicados em um CMS (Prismic) são visualizados no site. Conceitos importantes como: 
+spacetraveling é uma aplicação que consiste em um site, estilo blog, onde conteúdos publicados em um CMS (Prismic) são visualizados no site. Conceitos como: 
 
 - Estilizações global, comum e individuais;
 - Importação de fontes Google;
